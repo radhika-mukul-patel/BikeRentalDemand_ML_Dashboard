@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+catboost == 1.1.1
+xgboost
+streamlit
+seaborn
+plotly
+plotly_express
